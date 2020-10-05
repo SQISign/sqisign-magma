@@ -7,7 +7,7 @@ This code implements the isogeny-based signature scheme SQISign.
 
 ## Compile
 
-To compile and test sqisgn, run
+To compile and test sqisign, run
 
 ```
 make sqisign
